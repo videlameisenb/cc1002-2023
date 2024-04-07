@@ -1,0 +1,8 @@
+08  1  1  1Estados Unido
+05  1  1  1Colombia
+07  0  0  0Mexico
+06  0  0  0Jamaica
+04  0  0  0Chile
+03  0  0  0Canada
+02  0  0  0Brasil
+01  0  0  0Argentina

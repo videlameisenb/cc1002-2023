@@ -1,0 +1,10 @@
+2001101101010101010Omnium
+2002101            Madison
+2003102            100m libre
+2004102            200m pecho
+2005103            Piso
+2006104            Individual
+2007201            Lanzamiento de Jabalina
+2008201            400m planos
+2009202101710171017Plataforma 10m
+2010202            Plataforma 3m
